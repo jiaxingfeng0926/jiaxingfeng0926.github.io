@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: correctchange.png
 title: "CorrectChange"
 date: 2024
 labels:
