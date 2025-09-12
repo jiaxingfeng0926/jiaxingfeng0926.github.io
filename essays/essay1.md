@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="..computer-program-coding-screen_53876-138060.avif">
+<img width="200px" class="rounded float-start pe-4" src=".img/computer-program-coding-screen_53876-138060.avif.">
 
 **Inspiration to coding**
 
