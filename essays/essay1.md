@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src=".img/img/essay1.jpg">
+<img width="200px" class="rounded float-start pe-4" src="/img/essay1.jpg">
 
 **Inspiration to coding**
 
