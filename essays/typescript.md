@@ -6,7 +6,7 @@ title: "What is typescript?"
 date: 2025-09-11
 published: true
 labels:
-  - Software Eningeering
+  - Software Engineering
   - Typescript
   - Learning
   - Newbie
