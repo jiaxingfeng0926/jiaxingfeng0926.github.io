@@ -6,7 +6,7 @@ title: "My Path to Coding"
 date: 2025-09-11
 published: true
 labels:
-  - Software Eningeering
+  - Software Engineering
   - Java
   - Learning
 ---
