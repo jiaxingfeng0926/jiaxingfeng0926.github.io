@@ -6,7 +6,7 @@ title: "My Experience with ESLint"
 date: 2025-09-25
 published: true
 labels:
-  - Software Eningeering
+  - Software Engineering
   - ESLint
   - Learning
 ---
@@ -19,7 +19,7 @@ At first, I had no idea what ESLint was or what exactly coding standards meant. 
 
 **Challenges I Faced**
 
-One of the main challenges I encountered was compiling TypeScript to JavaScript properly.  I could not figure out why my code wasn’t working as expected, and this took a long time to resolve.  Sometimes the ESLint warnings seemed unrelated to the problem I was trying to solve, which made me frustrated.  I often felt stuck, unsure if I was making progress.  However, these challenges forced me to slow down, read documentation more carefully, and experiment with different solutions. After that I realizedall these difficulties were not obstacles but opportunities to improve my skills.
+One of the main challenges I encountered was compiling TypeScript to JavaScript properly.  I could not figure out why my code wasn’t working as expected, and this took a long time to resolve.  Sometimes the ESLint warnings seemed unrelated to the problem I was trying to solve, which made me frustrated.  I often felt stuck, unsure if I was making progress.  However, these challenges forced me to slow down, read documentation more carefully, and experiment with different solutions. After that I realized all these difficulties were not obstacles but opportunities to improve my skills.
   
 **Learning from Coding Standards**
 
