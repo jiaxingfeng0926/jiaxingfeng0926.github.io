@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="/img/essay2.jpg">
+<img width="200px" class="rounded float-start pe-4" src="/img/uiframework.png">
 
 **Building Smarter, Not Harder**
 
