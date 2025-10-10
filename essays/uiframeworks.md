@@ -24,3 +24,5 @@ Learning Bootstrap 5 revealed that efficiency doesn't require sacrificing contro
 **What did I learned**
 
 Working with Bootstrap 5 taught me that UI frameworks are more than just design shortcuts—they represent a smarter, more scalable approach to front-end development.  By abstracting away repetitive styling work, frameworks allow developers to focus on usability, accessibility, and creativity.  They also promote best practices like responsiveness and modularity, which are crucial in modern web engineering.  While the initial learning curve can be steep, the payoff is immense: faster development, cleaner code, and interfaces that look great on any device.  In the end, mastering a UI framework isn’t about giving up control—it’s about gaining the tools to build smarter, not harder.
+
+*This essay was drafted with the assistance of AI, which helped correct grammar and refine wording.*
