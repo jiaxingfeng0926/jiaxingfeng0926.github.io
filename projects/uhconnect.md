@@ -15,7 +15,7 @@ summary: "A gaming community platform that enables users to authenticate, explor
 
 <img src="../img/landingpage.png" width="900">
 
-## UH Connect
+## Overview
 
 UH Connect is a web application designed to help UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals such as casual play, ranked competition, or streaming, and their availability. By creating detailed gamer profiles, students can clearly express their interests and play styles, making it easier to find compatible players to game with. The platform also includes events that can be created by players or officially organized by the UH Gaming Club, allowing students to discover tournaments, casual meetups, and other gaming activities that strengthen the campus gaming community.
 
