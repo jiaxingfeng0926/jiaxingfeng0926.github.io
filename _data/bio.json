@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Java", "Javascript" ]
+      "keywords": ["Java", "Javascript","Typescript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -39,6 +39,14 @@
       ]
     }
   ],
+  "awards": [
+  {
+    "title": "Dean’s List",
+    "date": "2023",
+    "awarder": "University of Hawaiʻi at Mānoa",
+    "summary": "Recognized for academic excellence by achieving Dean’s List honors."
+  }
+],
   "references": [
     {
       "name": "Available upon request"
