@@ -13,7 +13,7 @@ labels:
 summary: "A gaming community platform that enables users to authenticate, explore games and events, and allows admins to manage content through a centralized dashboard."
 ---
 
-<img src="img/landingpage.png" width="700">
+</img src="img/landingpage.png" width="700">
 
 ##UH Connect
 
