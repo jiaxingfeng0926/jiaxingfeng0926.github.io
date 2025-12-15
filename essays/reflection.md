@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="/img/software.jpg">
+<img width="350px" class="rounded float-start pe-4" src="/img/software.jpg">
 
 **From Assignments to Engineering Mindset**
 
