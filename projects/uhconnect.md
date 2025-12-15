@@ -15,15 +15,15 @@ summary: "A gaming community platform that enables users to authenticate, explor
 
 <img src="../img/landingpage.png" width="700">
 
-##UH Connect
+## UH Connect
 
 UH Connect is a web application designed to help UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals such as casual play, ranked competition, or streaming, and their availability. By creating detailed gamer profiles, students can clearly express their interests and play styles, making it easier to find compatible players to game with. The platform also includes events that can be created by players or officially organized by the UH Gaming Club, allowing students to discover tournaments, casual meetups, and other gaming activities that strengthen the campus gaming community.
 
-##Technologies and Tools Used
+## Technologies and Tools Used
 
 UH Connect was developed using modern, industry-standard technologies to support a scalable full-stack web application. The frontend was built with React, Next.js, and TypeScript, enabling reusable components and dynamic page rendering, while Bootstrap 5 and React-Bootstrap were used to ensure a responsive and consistent user interface across devices. Server-side functionality was implemented using Next.js Server Actions and API routes, which handled authentication, data processing, and communication with the database. The backend uses Prisma ORM for schema modeling and database interactions, with PostgreSQL providing reliable persistent data storage. User authentication was managed through NextAuth, enabling secure session handling and protected routes, and the application was deployed on Vercel, allowing seamless continuous deployment and environment configuration.
 
-##My Contributions to Gamer Connects:
+## My Contributions to Gamer Connects:
 
 -Designed and implemented the UI for sign-up, sign-in, logout, and change password pages, focusing on clarity, usability, and consistent styling
 
@@ -39,7 +39,7 @@ UH Connect was developed using modern, industry-standard technologies to support
 
 Participated actively in GitHub project management by creating and resolving issues, working with feature branches, submitting pull requests, and collaborating with teammates during code reviews and debugging sessions.
 
-##Skills and Lessons Learned
+## Skills and Lessons Learned
 
 Working on Gamer Connects significantly strengthened my understanding of full-stack development and collaborative software engineering. I learned how to design authenticated user flows, manage role-based access control, and integrate frontend components with backend data sources. I also gained experience debugging issues that appeared only in production environments, particularly when deploying with Vercel.
 
